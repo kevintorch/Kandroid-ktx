@@ -36,14 +36,15 @@ class MainActivity : AppCompatActivity() {
 
         // animation
         someView.animate {
-            nestedView.isVisible = true
+            isVisible = true
         }
 
         // individual padding with **dp** extension (return Int in view-based system)
         someView.padding(top = 16.dp)
         someView.padding(vertical = 24.dp)
 
-        
+        //
+
     }
 }
 ```
