@@ -1,6 +1,6 @@
 # Kandroid Kotlin Extensions
 
-Common Kotlin extensions to used in Android projects.
+Common view-based Kotlin extensions to used in Android projects.
 
 Latest Version 👉  [![](https://jitpack.io/v/kevintorch/Kandroid-ktx.svg)](https://jitpack.io/#kevintorch/Kandroid-ktx)
 
