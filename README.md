@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
             isVisible = true
         }
 
-        // individual padding with "dp" extension (return Int in view-based system)
+        // individual padding with "dp" extension (returns px as Int in view-based system)
         someView.padding(top = 16.dp)
         someView.padding(vertical = 24.dp)
 
